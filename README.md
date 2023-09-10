@@ -1,2 +1,2 @@
 I’m MJClark @Mason-Clark
-Python, Linux, and interconnected network enthusiast.
+Python, Linux, and physical and computer sciences enthusiast.
